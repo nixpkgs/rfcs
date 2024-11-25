@@ -49,7 +49,7 @@ for, and where all are given opportunity to participate meaningfully. The
 Foundation will work with the community in service of this goal.
 ```
 
-ref: [twitter](https://twitter.com/grhmc/status/1390775249424338944)
+Discussions about moderation must not be moderated.
 
 # Examples and Interactions
 [examples-and-interactions]: #examples-and-interactions
